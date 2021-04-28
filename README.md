@@ -1,5 +1,7 @@
 👋 Hi, I’m Keiran (@kjharcombe)
+
 👀 I’m interested in; LaTeX, typesetting and accessibility
+
 📫 How to reach me; Give me a shout through Github 😁
 
 <!---
