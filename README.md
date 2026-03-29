@@ -1,8 +1,12 @@
-👋 Hi, I’m Keiran (@kjharcombe)
+# 👋 Hi, I’m Keiran
 
 👀 I’m interested in; LaTeX, typesetting and accessibility
 
 📫 How to reach me; Give me a shout through Github 😁
+
+## Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=kjharcombe&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 kjharcombe/kjharcombe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
